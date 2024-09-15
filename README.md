@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm BISWAJEET MISHRA</h1>
-<h3 align="center">A passionate full-stack Java developer with extensive knowledge of various libraries and frameworks.</h3>
+<h3 align="center">A enthusiastic full-stack Java developer with extensive knowledge of various libraries and frameworks.</h3>
 
 <p align="center"> 
   <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
