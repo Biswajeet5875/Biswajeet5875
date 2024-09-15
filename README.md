@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on **e-commerce application for an apparel store using Spring Boot (backend) and React (frontend)**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently emphasizing on **MERN Stack** an **Springboot**
 
-- 👨‍💻 All of my projects are available at [@link](@link)
+- 👨‍💻 All of my projects are available at **https://github.com/Biswajeet5875**
 
 - 📫 How to reach me **cdt.king75@gmail.com or +91-9692732403**
 
 - 📄 Know about my experiences [@resume](@resume)
 
-- ⚡ Fun fact **My hobby is creating websites, always aiming to improve each one over the previous.**
+- ⚡ Fun fact : **My hobby is creating websites, always aiming to improve each one over the previous.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
