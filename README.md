@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **e-commerce application for an apparel store using Spring Boot (backend) and React (frontend)**
 
-- 🌱 I’m currently emphasizing on **MERN Stack** an **Springboot**
+- 🌱 I’m currently emphasizing on **MERN Stack** and **Springboot**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/Biswajeet5875](https://github.com/Biswajeet5875?tab=repositories)**
 
