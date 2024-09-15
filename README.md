@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently emphasizing on **MERN Stack** an **Springboot**
 
-- 👨‍💻 All of my projects are available at **https://github.com/Biswajeet5875**
+- 👨‍💻 All of my projects are available at **[https://github.com/Biswajeet5875](https://github.com/Biswajeet5875?tab=repositories)**
 
 - 📫 How to reach me **cdt.king75@gmail.com or +91-9692732403**
 
