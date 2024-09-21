@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **cdt.king75@gmail.com or +91-9692732403**
 
-- 📄 Know about my experiences [@resume](@resume)
+- 📄 Know about my experiences <a href = "https://www.canva.com/design/DAGRNp2mzwA/Rt2KTcLKMcI1aVBmM8SDYg/edit?utm_content=DAGRNp2mzwA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">@resume</a>
 
 - ⚡ Fun fact : **My hobby is creating websites, always aiming to improve each one over the previous.**
 
