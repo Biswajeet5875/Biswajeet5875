@@ -2,7 +2,7 @@
 <h3 align="center">A enthusiastic full-stack Java developer with extensive knowledge of various libraries and frameworks.</h3>
 
 <p align="center"> 
-  <img alt="Coder GIF" height=300 width=500 src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e473h5yr0j9es61duizkzgisg81zsztr0rizevqpy7i&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+  <img alt="Coder GIF" height=250 width=500 src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e473h5yr0j9es61duizkzgisg81zsztr0rizevqpy7i&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 <br>
  </p>
 
