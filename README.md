@@ -19,6 +19,7 @@
 - ⚡ Fun fact : **My hobby is creating websites, always aiming to improve each one over the previous.**
 
 <h3 align="left">Connect with me:</h3>
+<hr>
 <p align="left">
 <a href="https://x.com/biswajeet_75" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@biswajeet_75" height="30" width="40" />
