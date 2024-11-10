@@ -1,4 +1,5 @@
-<h1 align="center">Hello World 👋,I'm <br> BISWAJEET MISHRA</h1>
+<h2 align="center">Hello World 👋,I'm </h2>
+<h1>BISWAJEET MISHRA</h1>
 <h3 align="center">A enthusiastic full-stack Java developer with extensive knowledge of various libraries and frameworks.</h3>
 
 <p align="center"> 
