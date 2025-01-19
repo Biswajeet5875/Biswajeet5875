@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact : **My hobby is creating websites, always aiming to improve each one over the previous.**
 
+- <h4>Total Repository count : <span font-weight="bold">29</span></h4>
+
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="left">
