@@ -7,17 +7,17 @@
 <br>
  </p>
 
-- 🔭 I’m currently working on Raconsys Consultancy Services.
+🔭 I’m currently working on Raconsys Consultancy Services.
 
-- 🌱 I’m currently emphasizing on **MERN Stack** and **Springboot**
+🌱 I’m currently emphasizing on **MERN Stack** and **Springboot**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/Biswajeet5875](https://github.com/Biswajeet5875?tab=repositories)**
+👨‍💻 All of my projects are available at **[https://github.com/Biswajeet5875](https://github.com/Biswajeet5875?tab=repositories)**
 
-- 📫 How to reach me **cdt.king75@gmail.com or +91-9692732403**
+📫 How to reach me **cdt.king75@gmail.com or +91-9692732403**
 
-- 📄 Know about my experiences <a href = "https://www.canva.com/design/DAGRNp2mzwA/Rt2KTcLKMcI1aVBmM8SDYg/edit?utm_content=DAGRNp2mzwA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">@resume</a>
+📄 Know about my experiences <a href = "https://www.canva.com/design/DAGRNp2mzwA/Rt2KTcLKMcI1aVBmM8SDYg/edit?utm_content=DAGRNp2mzwA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">@resume</a>
 
-- ⚡ Fun fact : **My hobby is creating websites, always aiming to improve each one over the previous.**
+⚡ Fun fact : **My hobby is creating websites, always aiming to improve each one over the previous.**
 
 - <h4>Total Repository count : <span font-weight="bold">43</span></h4>
 
