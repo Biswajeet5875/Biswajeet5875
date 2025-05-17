@@ -7,7 +7,7 @@
 <br>
  </p>
 
-- 🔭 I’m currently working on **e-commerce application for an apparel store using Spring Boot (backend) and React (frontend)**
+- 🔭 I’m currently working on Raconsys Consultancy Services.
 
 - 🌱 I’m currently emphasizing on **MERN Stack** and **Springboot**
 
