@@ -93,5 +93,5 @@
 </p>
 
 <img
-     width=100%
+     width=50% 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajeet5875&layout=compact&theme=great-gatsby">
