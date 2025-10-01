@@ -100,3 +100,4 @@ usemo<h2 align="center">Hello World 👋,I'm </h2>
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Biswajeet5875&theme=flat)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=flat&hide_title=true)
