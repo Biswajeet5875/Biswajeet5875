@@ -1,4 +1,4 @@
-<h2 align="center">Hello World 👋,I'm </h2>
+mo<h2 align="center">Hello World 👋,I'm </h2>
 <h1 align="center">BISWAJEET MISHRA</h1>
 <h3 align="center">A enthusiastic full-stack Java developer with extensive knowledge of various libraries and frameworks.</h3>
 
@@ -98,6 +98,6 @@
 />
 
 
-![GitHub Profile Trophy](https://github.com/Biswajeet5875/github-profile-trophy)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Biswajeet5875)
 
 
