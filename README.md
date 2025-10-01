@@ -98,6 +98,6 @@
 />
 
 
-![GitHub Profile Trophy](https://github.com/biswajeet5875/github-profile-trophy)
+![GitHub Profile Trophy](https://github.com/Biswajeet5875/github-profile-trophy)
 
 
