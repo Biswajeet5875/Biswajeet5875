@@ -98,9 +98,6 @@
 />
 
 
-<img 
-  width="60%" 
-  src=" https://github.com/ryo-ma/github-profile-trophy'
-/>
+![GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
 
 
