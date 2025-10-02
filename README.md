@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=250&section=header&text=Biswajeet%20Mishra&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Neon Banner" />
 </p>
 
-<h1 align="center">👋 Hello World, I'm Biswajeet Mishra</h1>
+<h1 align="center">👋 Hello World, I'm ...</h1>
 <h3 align="center">🚀 Full-Stack Java Developer | MERN & Spring Boot Enthusiast | Tech Explorer</h3>
 
 ---
