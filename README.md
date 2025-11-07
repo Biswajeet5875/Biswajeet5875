@@ -91,7 +91,7 @@ public class AboutMe {
 
 ---
 
-<h4 align="center">📌 Total Repository Count: <b>82</b></h4>
+<h4 align="center">📌 Total Repository Count: <b>89</b></h4>
 
 ---
 
